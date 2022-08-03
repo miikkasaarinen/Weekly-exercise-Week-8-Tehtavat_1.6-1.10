@@ -1,4 +1,6 @@
 Tehtävät 1.6 ja 1.7 on ensimmäinen commit.
+Tehttävät 1.8-1.10 viimeisin commit.
+1.10 vähän purkka viritelmä, mutta joskus purkkakin on hyvää.
 
 # Getting Started with Create React App
 
